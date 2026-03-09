@@ -1,4 +1,4 @@
-<img width="1186" height="2213" alt="image" src="https://github.com/user-attachments/assets/093eb759-52a4-4b06-8be2-59fc167fff87" /><img width="430" height="430" alt="image" src="https://github.com/user-attachments/assets/06aa0a51-8ef5-4033-af1f-1cb7e29af9d2" /><img width="430" height="430" alt="image" src="https://github.com/user-attachments/assets/1090095f-a5f1-4946-b843-0fbb26801872" />## 功能介绍 
+## 功能介绍 
 
  
 <img width="430" height="430" alt="image" src="https://github.com/user-attachments/assets/9e28c49f-07ce-4c64-9049-a1187845127e" />
@@ -8,7 +8,7 @@
 对博物馆：运营管理更高效，数据统计更精准，服务质量可量化。
 
  
-<img width="1186" height="2213" alt="image" src="https://github.com/user-attachments/assets/acf9e595-c220-4d7b-903f-cd3795c02f34" />
+<img width="1186" height="2213" alt="image" src="https://github.com/user-attachments/assets/093eb759-52a4-4b06-8be2-59fc167fff87" /><img width="430" height="430" alt="image" src="https://github.com/user-attachments/assets/06aa0a51-8ef5-4033-af1f-1cb7e29af9d2" /><img width="430" height="430" alt="image" src="https://github.com/user-attachments/assets/1090095f-a5f1-4946-b843-0fbb26801872" />
 
 
 ## 技术运用
